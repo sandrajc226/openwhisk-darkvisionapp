@@ -1,2 +1,4 @@
 node_modules
 local.env
+/.vs/openwhisk-darkvisionapp-scj/config
+/.vs
